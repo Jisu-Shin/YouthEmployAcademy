@@ -11,6 +11,14 @@
 
 
 ## [Week2 :: 20.08.03 - 08.07](https://github.com/Jisu-Shin/YouthEmployAcademy/tree/master/week2)
+1. Numpy
+2. Pandas
+3. Ecommerce Purchase
+5. Matplotlib
+6. REST API
+7. 크롤링(팀플)
+
+
 
 ## [Week3 :: 20.08.10 - 08.14](https://github.com/Jisu-Shin/YouthEmployAcademy/tree/master/week3)
 
